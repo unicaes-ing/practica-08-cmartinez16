@@ -1,0 +1,7 @@
+C:\Users\Clarissa\source\repos\Practica 8\bin\Debug\Practica 8.exe.config
+C:\Users\Clarissa\source\repos\Practica 8\bin\Debug\Practica 8.exe
+C:\Users\Clarissa\source\repos\Practica 8\bin\Debug\Practica 8.pdb
+C:\Users\Clarissa\source\repos\Practica 8\obj\Debug\Practica 8.csprojAssemblyReference.cache
+C:\Users\Clarissa\source\repos\Practica 8\obj\Debug\Practica 8.csproj.CoreCompileInputs.cache
+C:\Users\Clarissa\source\repos\Practica 8\obj\Debug\Practica 8.exe
+C:\Users\Clarissa\source\repos\Practica 8\obj\Debug\Practica 8.pdb
